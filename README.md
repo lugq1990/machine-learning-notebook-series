@@ -4,4 +4,4 @@ This tutorial is focused on really beginners that want to go into machine learni
 
 I will put more and more tutorials in this series steadily! 
 
-Keep tuned, just practice! Never give up！
+Keep tuned, just practice! 
