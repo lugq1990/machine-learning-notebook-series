@@ -33,6 +33,16 @@ Machine Learning Pipeline:
 [Whole Model Building Pipeline](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/Whole%20model%20building%20pipeline.ipynb)
 
 
+Additional Materials:
+
+Here you could get something useful for machine learning basic! I really recommend you should reference these materials for theory! 
+
+[Machine Learning Cheatsheet](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/useful_materials/super-cheatsheet-machine-learning.pdf)
+
+[Review of Linear Algebra](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/useful_materials/Linear%20Algebra%20Review.pdf)
+
+[Review of Probability](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/useful_materials/Review%20of%20probability.pdf)
+
 I will put more and more tutorials in this series steadily! 
 
 Keep tuned, just practice! 
