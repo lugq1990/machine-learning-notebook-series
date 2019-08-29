@@ -15,9 +15,6 @@ Tutorial List(You could just dive into the parts that interest you):
   * [Doubly Linked List](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/data_structures/doublylinkedlist.py)
   * [Binary Search Tree](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/data_structures/binary_search_tree.py)
 
-TODO LIST:
-  *Python basic tutorials*
-
 ## Plot Tutorials:
 
   * [Matplotlib Tutorial](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/Matplotlib%20Tutorial.ipynb)
@@ -33,32 +30,15 @@ TODO LIST:
 ## Machine Learning Pipeline:
 
   * [Preprocessing Tutorial](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/preprocessing%20turorial.ipynb)
+  * [Natural Language Preprocessing Tutorial](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/Natural%20language%20preprocessing%20tutorial.ipynb)
   * [Common Algorithms](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/Common%20Algorithms%20needed%20to%20use.ipynb)
   * [Model Parameters Tuning](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/Parameter%20tuning.ipynb)
   * [Model Selection Tutorial](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/Model%20Selection%20Tutorial.ipynb)
   * [Whole Model Building Pipeline](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/Whole%20model%20building%20pipeline.ipynb)
 
-TODO LIST:
-  *Preprocessing for NLP tutorials*
-  *preprocessing for image tutorials*
-
-
 # Deep Learning Tutorials
 
-TODO LIST:
-Algorithms:
-  *Basic DNN tutorials*
-  *CNN tutorials*
-  *RNN\LSTM\GRU tutorials*
-  *Attension\Transformer tutorials*
-Modules:
-  *NLTK tutorials*
-  *Gensim tutorials*
-  *Keras tutorials*
-  *TensorFlow tutorials*
-  *MXNet tutorials*
-  *PyTorch tutorials*
-  *PySpark tutorials*
+TODO...
 
 # Additional Materials:
 
@@ -72,4 +52,30 @@ Here you could get something useful for machine learning basic! I really recomme
 
 I will put more and more tutorials in this series steadily! 
 
-# Keep tuned, just practice! 
+## Keep tuned, Just practice!
+
+TODO LIST:
+
+  *Python basic tutorials*
+  
+Algorithms:
+
+  *preprocessing for image tutorials*  |
+  *Basic DNN tutorials*  |
+  *CNN tutorials*  |
+  *RNN\LSTM\GRU tutorials*  |
+  *Attension\Transformer tutorials*  
+  
+Modules:
+
+  *NLTK tutorials*  |
+  *Gensim tutorials*  |
+  *Keras tutorials*  |
+  *TensorFlow tutorials*  |
+  *MXNet tutorials*  |
+  *PyTorch tutorials*  |
+  *PySpark tutorials*  |
+
+
+TODO LIST fixed:
+   29/08/2019 Add feature preprocessing for natural language.
