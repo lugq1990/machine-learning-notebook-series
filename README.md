@@ -1,8 +1,8 @@
 # machine-learning-beginner-jupyter-series
 
-This tutorial is focused on really beginners that want to go into machine learning domain contains whole step from `Feature Engineering`, `Model Building`, `Model Selection`, `Model Evalution`. This tutorial also contain some `Linear Algebra` really basic explain that could be used in both machine learning and deep learning. If you want to get some plot usecase that this series also contain really basic use case using `matplotlib` and `seaborn`. If you are just beginner to python, this also contains some `data structures` in pure python implement!
+This tutorial is for someone curious about machine learning domain, I have made whole steps from **Feature Engineering**, **Model Building**, **Model Selection**, **Model Evalution** in machine learnig that should be used with step by step comments in these notebooks. If you need to learn math basic for machine learing, you could also take a look at **Linear Algebra**, if you want to plot some graphs during your training step, you could also glimpse **Matplotlib** and **Seaborn** tutorials, if you need to learn something about popular frameworks like **TensorFlow** and **PyTorch** in deep learning, you could also get these tutorials bellow. There are also some data structures with pure python implement, you could also take a reference! 
 
-Tutorial List(You could just dive into the parts that interest you):
+**Tutorial Lists(You could just dive into the parts that interest you)**
 
 # Python Tutorials
 
@@ -38,7 +38,7 @@ Tutorial List(You could just dive into the parts that interest you):
 
 # Deep Learning Tutorials
 
-TODO...
+ * [PyTorch Tutorial](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/PyTorch%20Tutorial.ipynb)
 
 # Additional Materials:
 
@@ -52,11 +52,9 @@ Here you could get something useful for machine learning basic! I really recomme
 
 I will put more and more tutorials in this series steadily! 
 
-## Keep tuned, Just practice!
+**I'm really glad to hear your voice for these tutorials, if you learn something from this repository, I will be happier!**
 
-TODO LIST:
-
-  *Python basic tutorials*
+# TODO LIST:
   
 Algorithms:
 
@@ -73,9 +71,11 @@ Modules:
   *Keras tutorials*  |
   *TensorFlow tutorials*  |
   *MXNet tutorials*  |
-  *PyTorch tutorials*  |
   *PySpark tutorials*  |
 
 
 TODO LIST fixed:
+
    29/08/2019 Add feature preprocessing for natural language.
+   
+   02/09/2019 Add PyTorch tutorials.
