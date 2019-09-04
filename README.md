@@ -4,15 +4,15 @@ This tutorial is machine learning and deep learning domain, this contains whole 
 
 # Dependencies
 
- Python 3.6
- numpy 1.17.0
- pandas 0.25.0
- matplotlib 2.2.4
- seaborn 0.9.0
- sklearn 0.21.3
- PyTorch 1.2.0
- TensorFlow 1.14.0
- Keras 2.1.2
+ * Python 3.6
+	* numpy 1.17.0
+	* pandas 0.25.0
+	* matplotlib 2.2.4
+	* seaborn 0.9.0
+	* sklearn 0.21.3
+	* PyTorch 1.2.0
+	* TensorFlow 1.14.0
+	* Keras 2.1.2
 
 **Tutorial Lists(You could just dive into the parts that interest you)**
 
@@ -51,10 +51,12 @@ This tutorial is machine learning and deep learning domain, this contains whole 
 # Deep Learning Tutorials
 
  * [PyTorch Starts Here Tutorial](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/PyTorch%20Tutorial.ipynb)
-  * [PyTorch Linear Regression Tutorial](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/PyTorches/Linear%20Regression.ipynb)
-  * [PyTorch Logistic Regression Tutorial](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/PyTorches/Logistic%20Regression.ipynb)
-  * [PyTorch Feed Forward Network Tutorial](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/PyTorches/Feed%20Forward%20Network.ipynb)
-  * [PyTorch Convolutional network Tutorial](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/PyTorches/Convolutional%20network.ipynb)
+   * [PyTorch Linear Regression Tutorial](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/PyTorches/Linear%20Regression.ipynb)
+   * [PyTorch Logistic Regression Tutorial](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/PyTorches/Logistic%20Regression.ipynb)
+   * [PyTorch Feed Forward Network Tutorial](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/PyTorches/Feed%20Forward%20Network.ipynb)
+   * [PyTorch Convolutional network Tutorial](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/PyTorches/Convolutional%20network.ipynb)
+   * [PyTorch LSTM Tutorial](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/pytorch/PyTorches/LSTM%20tutorial.ipynb)
+   * [PyTorch Bidirectional LSTM Tutorial](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/pytorch/PyTorches/Bidirectional%20LSTM%20Tutorial.ipynb)
  
 
 # Additional Materials:
