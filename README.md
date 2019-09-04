@@ -1,6 +1,18 @@
 # machine-learning-beginner-jupyter-series
 
-This tutorial is machine learning and deep learning domain, I have made whole steps from **Feature Engineering**, **Model Building**, **Model Selection**, **Model Evalution** for machine learnig that should be used with step by step comments in these notebooks. If you need to learn math basic for machine learing, you could also take a look at **Linear Algebra**, if you want to plot some graphs during your training step, you could also glimpse **Matplotlib** and **Seaborn** tutorials, if you need to learn something about popular frameworks like **TensorFlow** and **PyTorch** in deep learning, you could also get these tutorials bellow. There are also some data structures with pure python implement, you could also take a reference! 
+This tutorial is machine learning and deep learning domain, this contains whole steps from **Feature Engineering**, **Model Building**, **Model Selection**, **Model Evalution** for machine learnig that should be used with **step by step comments** in these notebooks. If you need to learn math basic for machine learing, you could also take a look at **Linear Algebra**, if you want to plot some graphs during your training step, you could also glimpse **Matplotlib** and **Seaborn** tutorials, if you need to learn something about popular frameworks like **TensorFlow** and **PyTorch** in deep learning, you could also get these tutorials bellow. There are also some data structures with pure python implement, you could also take a reference! 
+
+# Dependencies
+
+ Python 3.6
+ numpy 1.17.0
+ pandas 0.25.0
+ matplotlib 2.2.4
+ seaborn 0.9.0
+ sklearn 0.21.3
+ PyTorch 1.2.0
+ TensorFlow 1.14.0
+ Keras 2.1.2
 
 **Tutorial Lists(You could just dive into the parts that interest you)**
 
