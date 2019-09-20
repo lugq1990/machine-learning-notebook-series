@@ -1,4 +1,4 @@
-# machine-learning-beginner-jupyter-series
+# machine-learning-notebook-series
 
 This tutorial is machine learning and deep learning domain, this contains whole steps from **Feature Engineering**, **Model Building**, **Model Selection**, **Model Evalution** for machine learnig that should be used with **step by step comments** in these notebooks. If you need to learn math basic for machine learing, you could also take a look at **Linear Algebra**, if you want to plot some graphs during your training step, you could also glimpse **Matplotlib** and **Seaborn** tutorials, if you need to learn something about popular frameworks like **TensorFlow** and **PyTorch** in deep learning, you could also get these tutorials bellow. There are also some data structures with pure python implement, you could also take a reference! 
 
@@ -58,7 +58,9 @@ This tutorial is machine learning and deep learning domain, this contains whole 
    * [PyTorch LSTM Tutorial](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/pytorch/PyTorches/LSTM%20tutorial.ipynb)
    * [PyTorch Bidirectional LSTM Tutorial](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/pytorch/PyTorches/Bidirectional%20LSTM%20Tutorial.ipynb)
  
-
+ * [TensorFlow Starts Here Tutorial](https://github.com/lugq1990/machine-learning-notebook-series/blob/master/TensorFlowes/Basic%20classification%20with%20TensorFlow.ipynb)
+   * [Keras tutorial](https://github.com/lugq1990/machine-learning-notebook-series/blob/master/TensorFlowes/Keras%20Tutorial.ipynb)
+   
 # Additional Materials:
 
 Here you could get something useful for machine learning basic! I really recommend you should reference these materials for theory! 
@@ -91,12 +93,3 @@ Modules:
   *TensorFlow tutorials*  |
   *MXNet tutorials*  |
   *PySpark tutorials*  |
-
-
-TODO LIST fixed:
-
-   29/08/2019 Add feature preprocessing for natural language.
-   
-   02/09/2019 Add PyTorch tutorials.
-   
-   03/09/2019 Add PyTorch implement with LinearRegression, LogisticRegression, FeedForwardNet, CNNNet
