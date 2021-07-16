@@ -35,7 +35,7 @@ The main step should be just like below image for reference.
 ### Install SQL Server Management Studio (SSMS)
 
 
-There must be a way for us to hands-on with some code to dementrate that we could get a better understanding for some technologies, it's same for **SQL Server**. So we have already installed SQL Server client, the way to test is to install SSMS, you could download the latest version from [here](https://docs.microsoft.com/zh-cn/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15#download-ssms). SSMS provides tools to configure, monitor, and administer instances of SQL Server and databases. The installment step is just like traditional software.
+There must be a way for us to hands-on with some code to demonstrate that we could get a better understanding for some technologies, it's same for **SQL Server**. So we have already installed SQL Server client, the way to test is to install SSMS, you could download the latest version from [here](https://docs.microsoft.com/zh-cn/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15#download-ssms). SSMS provides tools to configure, monitor, and administer instances of SQL Server and databases. The installment step is just like traditional software.
 
 
 ### Uses of SSMS 
@@ -80,6 +80,14 @@ select * from users;
 -- drop table if we don't need it
 --drop table if exists users;
 
+```
+
+Output result is just like bellow:
+
+```
+id	names
+1	lu
+2	new
 ```
 
 If we want to delete a database with SQL query, you will face a error for: `database is already in use`, you could just use bellow SQL to force stop process of SQL server, then we could continue our deletation of database.
