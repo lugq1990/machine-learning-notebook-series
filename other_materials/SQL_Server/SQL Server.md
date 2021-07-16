@@ -1,4 +1,4 @@
-## SQL Server Database
+## SQL Server
 
 ### About SQL
 
@@ -48,6 +48,9 @@ After we have already installed **SSMS**, the first thing is to connect with our
 After connection is OK, then the first thing should `create a database` with right click **Databases**, then add your database name, then refresh the database type, you could see your database there, or we could use SQL to create our database.
 
 ![Create new database](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/other_materials/SQL_Server/picture/create_new_db.png)
+
+
+### SQL in real
 
 
 In fact, I highly recommend you should be familiar with SQL as most of daily work will need SQL functionality.
@@ -112,6 +115,8 @@ exec('drop database ['+@dbname+']')
 If you are curious about **machine learning** and want some **hands-on** tutorial, you could try my git repo: [machine-learning-notebook-series](https://github.com/lugq1990/machine-learning-notebook-series).
 
 If you are curious about how to create **Auto machine learning** models with only 3 lines of code, you could also get it from [auto-ml-cl](https://github.com/lugq1990/auto-ml-cl).
+
+If any repo helps you a bit, please consider to let a star lighten :)
 
 
 ### Final words
