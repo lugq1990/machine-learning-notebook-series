@@ -20,16 +20,16 @@ If you are using Windows without a lisence, then you could try to download `Expr
 
 The main step should be just like below image for reference. 
 
-![Select to install SQL Server client](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/other_materials/SQL_Server/picture/install.png)
+![Select to install SQL Server client](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/others/SQL_Server/picture/install.png)
 
 
-![Install Java to select JRE](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/other_materials/SQL_Server/picture/java_install.png)
+![Install Java to select JRE](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/others/SQL_Server/picture/java_install.png)
 
 
-![Installing process](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/other_materials/SQL_Server/picture/install_process.png)
+![Installing process](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/others/SQL_Server/picture/install_process.png)
 
 
-![Finishment of installment](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/other_materials/SQL_Server/picture/sucess.png)
+![Finishment of installment](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/others/SQL_Server/picture/sucess.png)
 
 
 ### Install SQL Server Management Studio (SSMS)
@@ -43,11 +43,11 @@ There must be a way for us to hands-on with some code to demonstrate that we cou
 
 After we have already installed **SSMS**, the first thing is to connect with our client, as we have already install our client with default user, then it could automately search username and password for us, then just `connect`. 
 
-![Connect to Server](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/other_materials/SQL_Server/picture/connect_to_server.png)
+![Connect to Server](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/others/SQL_Server/picture/connect_to_server.png)
 
 After connection is OK, then the first thing should `create a database` with right click **Databases**, then add your database name, then refresh the database type, you could see your database there, or we could use SQL to create our database.
 
-![Create new database](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/other_materials/SQL_Server/picture/create_new_db.png)
+![Create new database](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/others/SQL_Server/picture/create_new_db.png)
 
 
 ### SQL in real
