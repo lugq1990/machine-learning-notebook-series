@@ -48,6 +48,13 @@ This tutorial is machine learning and deep learning domain, this contains whole 
   * [Model Selection Tutorial](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/Model%20Selection%20Tutorial.ipynb)
   * [Whole Model Building Pipeline](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/Whole%20model%20building%20pipeline.ipynb)
 
+
+# Machine learning algorithms
+
+* [Adaboost Implement](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/Adaboost_implement.ipynb)
+
+
+
 # Deep Learning Tutorials
 
  * [PyTorch Starts Here Tutorial](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/PyTorch%20Tutorial.ipynb)
