@@ -16,22 +16,6 @@ This tutorial is machine learning and deep learning domain, this contains whole 
 
 **Tutorial Lists(You could just dive into the parts that interest you)**
 
-# Python Tutorials
-
-## Data Structures: 
-
-  * [Data structures jupyter](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/Data%20Structure%20Tutorial.ipynb)
-  * [Queue](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/data_structures/queues.py)
-  * [Stack](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/data_structures/stack.py)
-  * [Linked List](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/data_structures/linked_list.py)
-  * [Doubly Linked List](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/data_structures/doublylinkedlist.py)
-  * [Binary Search Tree](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/data_structures/binary_search_tree.py)
-
-## Plot Tutorials:
-
-  * [Matplotlib Tutorial](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/Matplotlib%20Tutorial.ipynb)
-  * [Seaborn Tutorial](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/Seaborn%20Tutorial.ipynb)
-
 
 # Machine Learning Tutorials
 
@@ -68,6 +52,29 @@ This tutorial is machine learning and deep learning domain, this contains whole 
  * [TensorFlow Starts Here Tutorial](https://github.com/lugq1990/machine-learning-notebook-series/blob/master/TensorFlowes/Basic%20classification%20with%20TensorFlow.ipynb)
    * [Keras tutorial](https://github.com/lugq1990/machine-learning-notebook-series/blob/master/TensorFlowes/Keras%20Tutorial.ipynb)
    
+
+## Plot Tutorials:
+
+  * [Matplotlib Tutorial](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/Matplotlib%20Tutorial.ipynb)
+  * [Seaborn Tutorial](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/Seaborn%20Tutorial.ipynb)
+  
+
+## Data Structures: 
+
+  * [Data structures jupyter](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/Data%20Structure%20Tutorial.ipynb)
+  * [Queue](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/data_structures/queues.py)
+  * [Stack](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/data_structures/stack.py)
+  * [Linked List](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/data_structures/linked_list.py)
+  * [Doubly Linked List](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/data_structures/doublylinkedlist.py)
+  * [Binary Search Tree](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/data_structures/binary_search_tree.py)
+
+
+## Other Materials
+
+  * [Git Tutorial](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/others/Git_Tutorial.ipynb)
+  * [SQL Server Tutorial](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/others/SQL_Server/SQL%20Server.md)
+  
+  
 # Additional Materials:
 
 Here you could get something useful for machine learning basic! I really recommend you should reference these materials for theory! 
