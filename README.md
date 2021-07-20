@@ -71,8 +71,8 @@ This tutorial is machine learning and deep learning domain, this contains whole 
 
 ## Other Materials
 
-  * [Git Tutorial](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/others/Git_Tutorial.ipynb)
-  * [SQL Server Tutorial](https://github.com/lugq1990/machine-learning-beginner-jupyter-series/blob/master/others/SQL_Server/SQL%20Server.md)
+  * [Git Tutorial](https://github.com/lugq1990/machine-learning-notebook-series/blob/master/others/Git_Tutorial.ipynb)
+  * [SQL Server Tutorial](https://github.com/lugq1990/machine-learning-notebook-series/blob/master/others/SQL_Server/SQL%20Server.md)
   
   
 # Additional Materials:
